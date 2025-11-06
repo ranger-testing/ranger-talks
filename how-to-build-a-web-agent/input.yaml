@@ -1,0 +1,11 @@
+employees:
+  - name: Leslie Knope
+    preferences:
+      "Needs maximum caffeine to power through 18-hour workdays. Appreciates efficiency
+      - doesn't have time for elaborate brewing rituals. Enjoys bright, energetic flavors that match
+      her personality. Usually buys pre-ground for convenience"
+  - name: Ron Swanson
+    preferences:
+      "Coffee snob, extremely particular; will only drink hand-ground coffee gathered
+      by hand from exotic places, in a slow, dark roast. Prefers Pourover coffee. Says anything
+      that comes pre-ground 'tastes like lies'"
